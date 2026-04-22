@@ -32,3 +32,6 @@ Zero-Dependency Deployment - No complex build steps, node_modules, or database s
 <li>No Database Needed - Runs on flat-file JSON storage, making it secure, fast, and hack-proof.</li>
 <li>Full Rights & Ownership - You get 100% ownership to modify, resell, or rebrand the script as your own.</li>
 </ul>
+
+<b>More details and download link:</b><br>
+https://www.phpscriptsonline.com/product/all-online-tools-in-one-box
